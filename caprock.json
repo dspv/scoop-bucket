@@ -1,23 +1,23 @@
 {
-    "version": "0.117.2",
+    "version": "0.117.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dspv/caprock/releases/download/v0.117.2/caprock_0.117.2_windows_amd64.zip",
+            "url": "https://github.com/dspv/caprock/releases/download/v0.117.3/caprock_0.117.3_windows_amd64.zip",
             "bin": [
                 "caprock-hook.exe",
                 "caprock-pty-host.exe",
                 "caprock.exe"
             ],
-            "hash": "9b18cdb809402979bd7824a7b82bbf3bdf3a06eb82e6f625b89ff254fc138256"
+            "hash": "3b8b92c65ee7ea09b29810eb93e42337e005564ba6128a1196f3d99c8bf403df"
         },
         "arm64": {
-            "url": "https://github.com/dspv/caprock/releases/download/v0.117.2/caprock_0.117.2_windows_arm64.zip",
+            "url": "https://github.com/dspv/caprock/releases/download/v0.117.3/caprock_0.117.3_windows_arm64.zip",
             "bin": [
                 "caprock-hook.exe",
                 "caprock-pty-host.exe",
                 "caprock.exe"
             ],
-            "hash": "07b607007a91a60e869c6c38e6b6f779372a2fc0b56637623df27b1ec14d25ba"
+            "hash": "e8fb82eee15a0dbfeeebbf9c267bb09278d174b16d43729053882a11df56bf6e"
         }
     },
     "homepage": "https://caprock.dev",
